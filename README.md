@@ -15,7 +15,7 @@ I'm a passionate **student** eager to grow in the tech field. My main focus is o
 
 ## 🌟 Featured Project
 
-### [financas](https://github.com/orlandopdj/financas)
+### [Controle de gastos]([https://github.com/orlandopdj/financas](https://github.com/orlandopdj/controle_de_gastos))
 A project focused on financial management and organization. Check it out to see my approach to code structure, UI/UX, and more!
 
 ## 🌱 Personal Growth
